@@ -1,4 +1,4 @@
-name: Dosttech build image
+name: vsftpd container build image
 
 on:
   push:
